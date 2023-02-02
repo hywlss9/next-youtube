@@ -34,6 +34,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react-dom", "npm:18.0.10"],\
             ["eslint", "npm:8.33.0"],\
             ["eslint-config-next", "virtual:5f9409bc0b5a982fd3237c798886d03f9b65c5cf93495f11873c0d2ab2be31359682294e37c55e0218b99ad7370ce6c668b72b2bf525023f44a88f8881b365c9#npm:13.1.6"],\
+            ["minireset.css", "npm:0.0.7"],\
             ["next", "virtual:5f9409bc0b5a982fd3237c798886d03f9b65c5cf93495f11873c0d2ab2be31359682294e37c55e0218b99ad7370ce6c668b72b2bf525023f44a88f8881b365c9#npm:13.1.6"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:5f9409bc0b5a982fd3237c798886d03f9b65c5cf93495f11873c0d2ab2be31359682294e37c55e0218b99ad7370ce6c668b72b2bf525023f44a88f8881b365c9#npm:18.2.0"],\
@@ -2326,6 +2327,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
+      ["minireset.css", [\
+        ["npm:0.0.7", {\
+          "packageLocation": "./.yarn/cache/minireset.css-npm-0.0.7-4fcb543606-f37dfa119c.zip/node_modules/minireset.css/",\
+          "packageDependencies": [\
+            ["minireset.css", "npm:0.0.7"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
       ["ms", [\
         ["npm:2.1.2", {\
           "packageLocation": "./.yarn/cache/ms-npm-2.1.2-ec0c1512ff-673cdb2c31.zip/node_modules/ms/",\
@@ -2427,6 +2437,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react-dom", "npm:18.0.10"],\
             ["eslint", "npm:8.33.0"],\
             ["eslint-config-next", "virtual:5f9409bc0b5a982fd3237c798886d03f9b65c5cf93495f11873c0d2ab2be31359682294e37c55e0218b99ad7370ce6c668b72b2bf525023f44a88f8881b365c9#npm:13.1.6"],\
+            ["minireset.css", "npm:0.0.7"],\
             ["next", "virtual:5f9409bc0b5a982fd3237c798886d03f9b65c5cf93495f11873c0d2ab2be31359682294e37c55e0218b99ad7370ce6c668b72b2bf525023f44a88f8881b365c9#npm:13.1.6"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:5f9409bc0b5a982fd3237c798886d03f9b65c5cf93495f11873c0d2ab2be31359682294e37c55e0218b99ad7370ce6c668b72b2bf525023f44a88f8881b365c9#npm:18.2.0"],\
